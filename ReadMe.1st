@@ -1,0 +1,34 @@
+Пакет LanList является примером процедуры пользователя для LanScan.
+С его помощью можно получить информацию о времени работы узлов TCP/IP
+в графическом и табличном виде.
+
+В результате работы LanList формируются файлы LanList.Out и LanList.htm.
+Файл LanList.Out представляет информацию в табличном виде.
+Файл LanList.htm используется для представления информации в
+графическом виде.
+
+Для установки пакета LanList скопируйте все файлы из директории Binary
+в директорию, где установлен LanScan.
+
+Ввиду ограничения стандартной программы SORT на размер исходного файла
+(примерно 63 КБ), рекомендуется для сортировки использовать какую-либо
+другую программу. Например, можно взять с hobbes программу BIGSORT
+(bigsrt44.zip).
+
+===========================================================================
+
+Package LanList is the example of user's procedure for LanScan.
+It allows to get information about time intervals when nodes TCP/IP were
+active as table and graphic view.
+
+LanList creates files LanList.Out and LanList.htm.
+File LanList.Out produces information as table.
+File LanList.htm is used for produce information as graphic view.
+
+For installation LanList package copy all files from directory Binary
+to directory where LanScan is installed.
+
+Because Program SORT has the limit for the size of source file
+(approximately 63 KB), it is recommended to use another program for sorting.
+For instance, it's possible to download from hobbes program BIGSORT
+(bigsrt44.zip).

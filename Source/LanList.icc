@@ -1,0 +1,9 @@
+option link(linkwithsharedlib,no), opt(level, "2"),
+       gen(pack, "1"),
+       gen(arch, "486"), opt(tune, "486")
+{
+   target "LanList.exe"
+   {
+      source "LanList.c"
+   }
+}
